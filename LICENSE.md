@@ -1,4 +1,4 @@
-
+Bitdefender VPN ultimate Plugin: obfuscation & IKEv2-support offers the most advanced Bitdefender VPN plugin, with obfuscation and IKEv2-support. Ideal for users who value privacy
 
 
 
